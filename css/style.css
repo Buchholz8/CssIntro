@@ -1,0 +1,27 @@
+p {
+    font-size: 24px;
+    font-family: monospace;
+    color: chartreuse;
+}
+
+a {
+    font-size: 16px;
+    color: brown;
+    background-color: aqua;
+}
+
+h4 {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head_title {
+    color: fuchsia;
+    font-size: 30px;
+}
+#middletitle {
+    color: mediumspringgreen;
+}
+#middlepara {
+    font-size: 14px;
+    color: darkviolet;
+}
